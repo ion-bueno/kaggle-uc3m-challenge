@@ -8,11 +8,11 @@ Preprocessed and raw data (from the competition) are stored in the corresponding
 
 ## Code
 
-In folder **src**. It stores the implemented models as well as preprocessing part and utils.
+In folder **src**, it stores the implemented models as well as preprocessing part and utils.
 
 ## Notebooks
 
-To ease the use and implementation of models, as well as visualization and predictions based on feature selection.
+To ease the use and implementation of models, as well as visualizations and predictions based on feature selection.
 
 ## Report
 
